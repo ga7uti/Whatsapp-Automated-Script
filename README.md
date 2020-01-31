@@ -1,1 +1,1 @@
-# Whatsapp-Auotmated-Script
+# Whatsapp-Automated-Script
